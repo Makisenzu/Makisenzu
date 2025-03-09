@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Makisenzu
-- 👀 I’m interested in Game Development, Desktop Application
-- 🌱 I’m currently learning game development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello! I'm Denmark B. Rivera
+- 👀 I’m interested in Game Development, Desktop Application, Web Development and Machine Learning
+- 🌱 Currently exploring things to enhance my coding and analytical skills
+- 💞️ Seeking for opportunities
 - 📫 denmarkbarbarona13@gmail.com
 - 😄 Pronouns: He/Him
 
