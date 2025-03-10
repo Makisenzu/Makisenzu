@@ -1,7 +1,7 @@
 - 👋 Hello! I'm Denmark B. Rivera
-- 👀 I’m interested in Game Development, Desktop Application, Web Development and Machine Learning
+- 👀 I’m interested in Game Development, Desktop Application, Web Development and Cybersecurity
 - 🌱 Currently exploring things to enhance my coding and analytical skills
-- 💞️ Seeking for opportunities
+- 💞️ Seeking opportunities
 - 📫 denmarkbarbarona13@gmail.com
 - 😄 Pronouns: He/Him
 
